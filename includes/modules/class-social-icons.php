@@ -63,7 +63,7 @@ class Harrison_Pro_Social_Icons {
 
 		// Create SVG markup.
 		$svg  = '<svg class="icon icon-' . esc_attr( $icon ) . '" aria-hidden="true" role="img">';
-		$svg .= ' <use xlink:href="' . HARRISON_PRO_PLUGIN_URL . 'assets/icons/social-icons.svg?ver=20240124#icon-' . esc_html( $icon ) . '"></use> ';
+		$svg .= ' <use xlink:href="' . HARRISON_PRO_PLUGIN_URL . 'assets/icons/social-icons.svg?ver=20251219#icon-' . esc_html( $icon ) . '"></use> ';
 		$svg .= '</svg>';
 
 		return $svg;
@@ -118,6 +118,7 @@ class Harrison_Pro_Social_Icons {
 			'bandcamp'        => 'bandcamp',
 			'behance.net'     => 'behance',
 			'bitbucket'       => 'bitbucket',
+			'bsky.app'        => 'bluesky',
 			'codepen'         => 'codepen',
 			'deviantart'      => 'deviantart',
 			'digg.com'        => 'digg',

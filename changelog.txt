@@ -2,6 +2,9 @@
 Harrison Pro Changelog
 ===================================
 
+= 1.3.0 - 2025-12-19 =
+* added Bluesky to social icons menu
+
 = 1.2.9 - 2025-01-03 =
 * improved tooling and code styling
 
